@@ -32,4 +32,4 @@ Whoborn Inc. (c) 2019.9.10
 3D Audio Player MRH Copyrights 2019.9.10 by whoborn
 
 [![HitCount](http://hits.dwyl.io/whoborn/https://githubcom/whoborn/mrh.svg)](http://hits.dwyl.io/whoborn/https://githubcom/whoborn/mrh)
-[![Github All Releases](https://img.shields.io/github/downloads/whoborn/mrh/latest/total)]()
+[![Github All Releases](https://img.shields.io/github/downloads/whoborn/mrh/total.svg)](https://img.shields.io/github/downloads/whoborn/mrh)
