@@ -1,7 +1,8 @@
 # release history
 
 Mixed Reality Headset MRH Firmware Version 1.0.3
-- MP3 Player 동작 버그 개선
+- MP3 Play 모드 버그 개선
+- MP3 Play 모드에서 블루투스 모드 전환시 버그 개선
 - 디바이스 전원 최적화 기능 개선
 - 기타 버그 사항 개선
 
