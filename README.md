@@ -1,5 +1,10 @@
 # release history
 
+Mixed Reality Headset MRH Firmware Version 1.0.3a
+- 블루투스 통신 이상작동 버그 개선
+- 충전중 LED 상태 버그 개선
+- 기타 버그 사항 개선
+
 Mixed Reality Headset MRH Firmware Version 1.0.3
 - MP3 Play 모드 버그 개선
 - MP3 Play 모드에서 블루투스 모드 전환시 버그 개선
@@ -33,7 +38,7 @@ Tel : (82+) 070-4327-6224
 E-mail : as@whoborn.net
 www.whoborn.net / www.mr-h.co
 
-Whoborn Inc. (c) 2019.9.10 
+Whoborn Inc. (c) 2019.10.25 
 
 3D Audio Player MRH Copyrights 2019.9.10 by whoborn
 
