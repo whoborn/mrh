@@ -1,5 +1,10 @@
 # release history
 
+Mixed Reality Headset MRH Firmware Version 1.0.4
+- 블루투스 모드 재생시 이상작동 버그 개선
+- Power-Off 음성 안내 개선
+- 기타 버그 사항 개선
+
 Mixed Reality Headset MRH Firmware Version 1.0.3a
 - 블루투스 통신 이상작동 버그 개선
 - 충전중 LED 상태 버그 개선
