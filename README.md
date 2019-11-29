@@ -1,5 +1,11 @@
 # release history
 
+Mixed Reality Headset MRH Firmware Version 1.0.6
+- 블루투스 모드 3D Audio 모드 변경 기능 개선
+- 블루투스, MP3 모드 오디오 볼륨레벨 버그 개선
+- Power-Off LED 이상 버그 개선
+- 기타 버그 사항 개선
+
 Mixed Reality Headset MRH Firmware Version 1.0.4
 - 블루투스 모드 재생시 이상작동 버그 개선
 - Power-Off 음성 안내 개선
