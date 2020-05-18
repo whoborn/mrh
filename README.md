@@ -13,14 +13,17 @@
 
 Tel : (82+) 070-4327-6224
 E-mail : as@whoborn.net
-www.whoborn.net / www.mr-h.co
+www.whoborn.net / www.mr-h.co 
 
-Whoborn Inc. (c) 2020.03.13 
-
-3D Audio Player MRH Copyrights 2020.03.13 by whoborn
+3D Audio Player MRH Copyrights 2020.05.18 by whoborn
 
 
 # Release History
+
+2020.05.18
+Mixed Reality Headset MRH Firmware Version 1.1.0 beta 
+- PlayList 앱연동
+- 기타 버그 사항 개선
 
 2020.03.13
 Mixed Reality Headset MRH Firmware Version 1.0.7 beta 
