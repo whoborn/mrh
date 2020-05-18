@@ -13,7 +13,7 @@
 
 Tel : (82+) 070-4327-6224
 E-mail : as@whoborn.net
-www.whoborn.net / www.mr-h.co 
+www.whoborn.net / www.mr-h.kr 
 
 3D Audio Player MRH Copyrights 2020.05.18 by whoborn
 
